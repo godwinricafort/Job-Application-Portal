@@ -63,30 +63,30 @@ Follow these steps to run the Job Portal System program on your local machine:
    cd <repository_directory>
 
 2. Open the project folder in your preferred code editor.
-   - File Structure:
-     ```bash
-     Job Portal System/src/com/jobportal/
-     ├── accounts/
-     │   ├── AccountsManager.java
-     │   ├── Employer.java
-     │   ├── JobSeeker.java
-     │   └── User.java
-     ├── jobs/
-     │   ├── Application.java
-     │   ├── FullTimeJob.java
-     │   ├── Job.java
-     │   ├── JobList.java
-     │   └── PartTimeJob.java
-     ├── main/
-     │   └── JobPortalSystem.java
-     └── utils/
-         └── Utils.java
+   File Structure:
+   ```bash
+   Job Portal System/src/com/jobportal/
+   ├── accounts/
+   │   ├── AccountsManager.java
+   │   ├── Employer.java
+   │   ├── JobSeeker.java
+   │   └── User.java
+   ├── jobs/
+   │   ├── Application.java
+   │   ├── FullTimeJob.java
+   │   ├── Job.java
+   │   ├── JobList.java
+   │   └── PartTimeJob.java
+   ├── main/
+   │   └── JobPortalSystem.java
+   └── utils/
+   └── Utils.java
 
 3. Compile the program:
    - Navigate to the src directory containing the code.
    - Run the following command to compile all Java files:
-     ```bash
-     javac com/jobportal/**/*.java
+   ```bash
+   javac com/jobportal/**/*.java
 
 4. Run the program:
    ```bash
