@@ -80,7 +80,7 @@ Follow these steps to run the Job Portal System program on your local machine:
    ├── main/
    │   └── JobPortalSystem.java
    └── utils/
-   └── Utils.java
+       └── Utils.java
 
 3. Compile the program:
    - Navigate to the src directory containing the code.
